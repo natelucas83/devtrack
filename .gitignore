@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Installed packages (rebuilt from package files)
+node_modules/
+.venv/
+
+# Generated files
+__pycache__/
+dist/
+.DS_Store
